@@ -1,2 +1,0 @@
-# taliseongoma
-basic gameapp
